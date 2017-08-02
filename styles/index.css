@@ -1,0 +1,25 @@
+body { font: 12px Arial;}
+
+path {
+  fill: none;
+}
+
+.line {
+  stroke: steelblue;
+  stroke-width: 2;
+}
+
+.axis {
+  stroke-width: 2;
+}
+
+.coil {
+  stroke: black;
+}
+
+.helix {
+  stroke: steelblue;
+}
+.strand {
+  stroke: red;
+}

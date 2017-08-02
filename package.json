@@ -3,15 +3,14 @@
   "babel": {
     "presets": [
       "es2017"
-     ]
+    ]
   },
-  "main": "lib/main.js",
+  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --inline"
   },
   "version": "0.0.1",
   "description": "Library for protein sequence annotation graphics",
-  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
