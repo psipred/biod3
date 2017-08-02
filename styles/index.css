@@ -14,12 +14,15 @@ path {
 }
 
 .coil {
-  stroke: black;
+  stroke: DimGrey;
+  stroke-width: 1;
 }
 
 .helix {
-  stroke: steelblue;
+  stroke: HotPink;
+  stroke-width: 3;
 }
 .strand {
-  stroke: red;
+  stroke: Gold;
+  stroke-width: 3;
 }

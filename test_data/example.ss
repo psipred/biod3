@@ -1,4 +1,4 @@
-pos,res,ss,coil,helix,strand 
+pos,res,ss,coil,helix,strand
 1,P,C,0.997,0.000,0.002
 2,K,E,0.359,0.001,0.640
 3,A,E,0.074,0.002,0.921
