@@ -26,6 +26,7 @@
     "webpack-dev-server": "^2.6.1"
   },
   "dependencies": {
-    "d3": "^4.10.0"
+    "d3": "^4.10.0",
+    "d3-svg-legend": "^2.24.1"
   }
 }
