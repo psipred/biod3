@@ -26,3 +26,31 @@ path {
   stroke: Gold;
   stroke-width: 3;
 }
+
+.pngbutton {
+  stroke: black;
+  fill: white;
+}
+
+.svgbutton {
+  stroke: black;
+  fill: white;
+}
+
+.pngbutton.active {
+  stroke: black;
+  fill: black;
+}
+
+.svgbutton.active {
+  stroke: black;
+  fill: black;
+}
+
+.buttonText {
+  fill: black;
+}
+
+.buttonText.active {
+  fill: white;
+}
