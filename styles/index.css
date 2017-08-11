@@ -54,3 +54,13 @@ path {
 .buttonText.active {
   fill: white;
 }
+
+.cutoff_line {
+  stroke-width: 1;
+  stroke: DimGrey;
+  stroke-dasharray: 5, 5;
+}
+
+.cutoffText {
+  fill: black;
+}
