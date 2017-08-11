@@ -27,6 +27,20 @@ path {
   stroke-width: 3;
 }
 
+.C {
+  stroke: DimGrey;
+  stroke-width: 10;
+}
+
+.H {
+  stroke: HotPink;
+  stroke-width: 10;
+}
+.E {
+  stroke: Gold;
+  stroke-width: 10;
+}
+
 .pngbutton {
   stroke: black;
   fill: white;
