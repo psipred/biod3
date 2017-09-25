@@ -82,6 +82,14 @@ div.tooltip {
   fill: white;
 }
 
+.togglebutton {
+  stroke: black;
+  fill: white;
+}
+.togglebutton.active {
+  fill: black;
+}
+
 .cutoff_line {
   stroke-width: 1;
   stroke: DimGrey;
