@@ -82,13 +82,28 @@ div.tooltip {
   fill: white;
 }
 
-.togglebutton {
+.phyrebutton {
   stroke: black;
   fill: white;
 }
-.togglebutton.active {
+.phyrebutton.active {
   fill: black;
 }
+.leskbutton {
+  stroke: black;
+  fill: white;
+}
+.leskbutton.active {
+  fill: black;
+}
+.clustalbutton {
+  stroke: black;
+  fill: white;
+}
+.clustalbutton.active {
+  fill: black;
+}
+
 
 .cutoff_line {
   stroke-width: 1;
