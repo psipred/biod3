@@ -74,19 +74,12 @@ div.tooltip {
   fill: black;
 }
 
-.buttonText {
-  fill: black;
-}
-
-.buttonText.active {
-  fill: white;
-}
-
 .phyrebutton {
   stroke: black;
   fill: white;
 }
 .phyrebutton.active {
+  stroke: black;
   fill: black;
 }
 .leskbutton {
@@ -94,6 +87,7 @@ div.tooltip {
   fill: white;
 }
 .leskbutton.active {
+  stroke: black;
   fill: black;
 }
 .clustalbutton {
@@ -101,9 +95,17 @@ div.tooltip {
   fill: white;
 }
 .clustalbutton.active {
+  stroke: black;
   fill: black;
 }
 
+.buttonText {
+  fill: black;
+}
+
+.buttonText.active {
+  fill: white;
+}
 
 .cutoff_line {
   stroke-width: 1;
