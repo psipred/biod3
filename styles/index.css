@@ -98,6 +98,15 @@ div.tooltip {
   stroke: black;
   fill: black;
 }
+.custombutton {
+  stroke: black;
+  fill: white;
+}
+.custombutton.active {
+  stroke: black;
+  fill: black;
+}
+
 
 .buttonText {
   fill: black;
