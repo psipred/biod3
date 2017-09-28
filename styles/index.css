@@ -107,6 +107,22 @@ div.tooltip {
   fill: black;
 }
 
+.psipredbutton {
+  stroke: black;
+  fill: white;
+}
+.psipredbutton.active {
+  stroke: black;
+  fill: black;
+}
+.memsatbutton {
+  stroke: black;
+  fill: white;
+}
+.memsatbutton.active {
+  stroke: black;
+  fill: black;
+}
 
 .buttonText {
   fill: black;
