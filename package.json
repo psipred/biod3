@@ -12,7 +12,7 @@
   "version": "0.0.1",
   "description": "Library for protein sequence annotation graphics",
   "keywords": [],
-  "author": "",
+  "author": "Daniel Buchan",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.25.0",
