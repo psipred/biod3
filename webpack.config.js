@@ -20,7 +20,7 @@ module.exports = [
     output: { // Transpiled and bundled output gets put in `build/bundle.js`.
       path: path.resolve(__dirname, 'build'),
       publicPath: '/assets/', // But it gets served as "assets" for testing purposes.
-      filename: 'bundle.js',   // Really, you want to upload index.html and assets/bundle.js
+      filename: 'biod3.js',   // Really, you want to upload index.html and assets/bundle.js
       libraryTarget: 'var', // https://stackoverflow.com/questions/34357489/calling-webpacked-code-from-outside-html-script-tag
       library: 'biod3',
     },

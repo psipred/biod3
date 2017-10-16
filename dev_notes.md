@@ -177,3 +177,9 @@ $ touch styles/index.css
 10. start the webpack server to start development
 
 $ npm start
+
+11. Build the package for use elsewhere
+
+$ npm run-script build
+
+Then find the blob in build/biod3.js
