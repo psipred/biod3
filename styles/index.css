@@ -65,11 +65,11 @@ text {
   fill: black;
 }
 
-.phyrebutton {
+.aatypesbutton {
   stroke: black;
   fill: white;
 }
-.phyrebutton.active {
+.aatypesbutton.active {
   stroke: black;
   fill: black;
 }
