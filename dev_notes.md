@@ -178,6 +178,20 @@ $ touch styles/index.css
 
 $ npm start
 
+you can visit localhost:8080 to see an image
+
+in main.js you likely have to uncommment the display you want to see in function drawChart().
+
+And at the top uncomment the data file you'd like to load
+
+//d3.queue()
+//   .defer(d3.csv, '../test_data/ginormous_sequence.ss')
+//   .await(drawChart);
+
+//d3.queue()
+//  .defer(d3.text, '../test_data/example.horiz')
+//  .await(drawChart);
+ 
 11. Build the package for use elsewhere
 
 $ npm run-script build
